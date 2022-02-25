@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant admirer, or, An answer to the vindication of a popish successor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56078</idno>
+            <idno type="STC">Wing P3819</idno>
+            <idno type="STC">ESTC R2851</idno>
+            <idno type="EEBO-CITATION">12244524</idno>
+            <idno type="OCLC">ocm 12244524</idno>
+            <idno type="VID">56885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant admirer, or, An answer to the vindication of a popish successor</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Settle, Elkanah, 1648-1724. --  Vindicaton of the character of a popish successor.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56885:1" rendition="simple:additions"/>
+            <head>THE Proteſtant Admirer OR, AN ANSWER TO THE VINDICATION OF A Popiſh SUCCESSOR.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHO and what you are, I do not infallibly know, but ſuppoſe without wronging you, I may for want of a name call you Mr. <hi>Little Worth;</hi> Indeed you entitle your ſelf true Patriot, but I fear it is of <hi>Italy</hi> where bloody <hi>Rome</hi> ſtands, and not of <hi>England</hi> where Loyal <hi>London</hi> ſtands. I have read your Paper called <hi>Weighty con<g ref="char:EOLhyphen"/>ſiderations,</hi> which being put into Proteſtant Scales, It may be truly ſaid, <hi>Thou art weighed in the Balance and art found wanting;</hi> and in the reading of them I am filled with the following admiration.</p>
+            <p n="1">1. I do admire your confidence in Dedicating ſuch a fooliſh Paper to the wiſe conſideration of ſo great a Prince and Monarch as the King of <hi>England</hi> is, together with his Honourable Privy Coun<g ref="char:EOLhyphen"/>cel, in which you manifeſt as if you were already, or elſe had a mind to be ſome great States-man; but this I muſt ſay that all <hi>Engliſh</hi> Proteſtants have cauſe to cry out from Such States-men good Lord deliver us. Your Paper doth ſignifie as if you did ſometimes read the holy Scriptures, I wiſh you had well conſidered the words of the wiſeſt of Kings; <hi>His Neighbour cometh and ſearcheth him out.</hi>
+            </p>
+            <p n="2">(2) I admire you ſhould preſent two ſheets of paper to his Majeſty, and ſend them abroad to the World, and ſay nothing of the Horrid and Damnable Popiſh Plot that is now in being, to Murther the King, Subvert the Government, and deſtroy the Proteſtant Religion; are you willing it ſhould be forgot? or would you have us believe there is no Popiſh plot in <hi>England?</hi> What do you think to ſhelter your ſelf under the wings of Royal Majeſty while you ſtrive to bring in a future Ruine upon his three Kingdomes? Would God His Majeſty may call to mind what is recorded in holy Writ, for the learning of all great men, how <hi>Joab</hi> while he ſpake peaceable to <hi>Abner</hi> ſmote him under the fifth Rib that he dyed, 2 <hi>Sam.</hi> 3.27.</p>
+            <p n="3">(3) I Admire that at ſuch a day as this is, in which the King and Kingdom are next door to deſtru<g ref="char:EOLhyphen"/>ction, you ſhould come forth like <hi>Goliah</hi> of the <hi>Philiſtian</hi> Army <hi>(viz.)</hi> the Bloody Papiſts, and ſtrive to put fear and dread in the <hi>Engliſh Iſrael, (viz.)</hi> the poor Proteſtants, what Sir did you think that the Lord of Hoſts would be leſs mindfu.l of his <hi>Iſrael</hi> now, and ſtir up none to meet you who appeareth in worſe manner then <hi>Goliah</hi> did? for he being an enemy to <hi>Iſrael</hi> appeared no other but ſuch an one, but you appear for the <hi>Philiſtians,</hi> and yet ſeem to be on <hi>Iſraels</hi> ſide, and therefore the more dangerous; but behold a poor Proteſtant, one of the meaneſt of all our <hi>Engliſh</hi> Tribes, cometh forth in the Name of Englands God to meet you as poor <hi>David</hi> did, with ſling and ſtone, even ſo I in a plain and mean way of reaſoning let fly at you, the Lord of Hoſts direct this to your heart as he did <hi>Davids</hi> ſtone to the <hi>Philiſtines</hi> Head, that ſo you may fall, and all the Popiſh <hi>Philiſtines</hi> fly away; I will do what I can with you, who are as <hi>Goliah,</hi> and leave the purſuit of the <hi>Philiſtian</hi> Army to the Worthies of our <hi>Engliſh Iſrael (viz.)</hi> our Proteſtant Parliament.</p>
+            <p n="4">(4) I Admire you ſhould talk at ſo bold a rate of the Laws of the Kingdom, as if the King with his Lords and Commons aſſembled in Parliament could not without breach of Law provide for the future happinſs of the Kingdom, by eſtabliſhing a Proteſtant Succeſſor, that ſo <hi>England</hi> may not be undone by a Papiſt; I pray you Sir take into conſideration that weighty Speech lately made in Parlia<g ref="char:EOLhyphen"/>ment, which ſheweth that to talk at ſuch a rate is a tranſgreſſion to be puniſhed with premunire. Surely what that worthy Gentleman ſaid in this matter was Law or his own Notion, but we have cauſe to conclude it to be Law becauſe the Houſe of Commons did not rebuke him for it, and alſo let the Bill againſt the Duke of York paſs. However if you think he hath offered his own Notion in ſtead of Law, I wiſh with all my heart you may appear in Parliament, (not as a member, but) as the Advocate of a Popiſh Succeſſor; and if you ſuffer for it, remember it is but what you perſwaded all the Proteſtants in <hi>England</hi> to endure under your popiſh Succeſſor, which will be far ſhort of theirs. And for as much as you have been ſo bold in your Paper to affirm you had the beſt Cauſe in the world to manage, reſpecting faithfulneſs to God and Loyalty to your Prince, be not afraid to appear before the Parliament, that by Informing them you may inform all <hi>England,</hi> and ſo prevent that which you account a great ſin.</p>
+            <pb n="2" facs="tcp:56885:2"/>
+            <p>I am not willing to retain any Error in any matter, but I do not ſee cauſe to change my mind from any thing offered in your (called weighty Conſiderations; but perceiving you to be a Man of parts (if not abuſed) and ſuppoſing you have much more to ſay, I beſeech you, for the Succeſſors ſake, and the Kingdoms, Plead this Cauſe in the High Court of Parliament: If you be a Proteſtant, it is better to ſuffer a Priſon or a Fine under a Proteſtant King and Parliament than to be Burnt under a Popiſh Succeſſor; who, it may be, will Favour you for this Service, though he deſtroy thouſands of others that now Reaſon againſt him, from Love to their Country, and him alſo in preventing the wronging of his Conſcience to obtain a Crown. And if you are afraid to venture upon this now, I can hardly believe you will burn and not turn under his Power you ſo much plead for. But if you be a Papiſt, then no wonder you thus cunningly perſwade the poor Proteſtants to loſe their Inheri<g ref="char:EOLhyphen"/>tance and Lives alſo.</p>
+            <p n="5">(5.) I Admire you ſhould call a Popiſh Succeſſor the beſt of Princes, (Sir, you ſmell ſtrong of <hi>Rome</hi>) God deliver His Majeſty from ſuch Flatterers: What, do you think that the King and Parlia<g ref="char:EOLhyphen"/>ment cannot find out a Proteſtant Prince to be his Succeſſor? which if they ſhould, I think you would not then own your Paper, and who ſo ready as ſuch as you to call him the beſt of Princes, rather than be without preferment under him.</p>
+            <p n="6">(6.) I Admire you ſhould ſo highly pretend to plead the Kings Power, and at the ſame time ſtrive to take it away, by inſinuating as if he with his Lords and Commons could not Eſtabliſh ano<g ref="char:EOLhyphen"/>ther Succeſſor, for the future Happineſs of his three Kingdoms; I thought all <hi>England</hi> had Learned by this time, that the repealing of bad Laws, and making better, had been in the power of King and Parliament.</p>
+            <p n="7">(7.) I Admire you ſhould make mention of <hi>Cook</hi> upon <hi>Littleton, That if the right Heir of the Crown be Attainted of Treaſon, yet the Crown ſhall deſcend to him:</hi> What, Sir, have you a mind to en<g ref="char:EOLhyphen"/>courage Treaſon, becauſe ſuch an one will be ſafe in it (if this be true) the Lord of Heaven open the King of <hi>Englands</hi> Eyes, that he may ſee his Danger, and remember that the firſt Murther that ever was in the World was by the hands of a Brother, <hi>viz. Cain</hi> killed <hi>Abel;</hi> yet I would fain hope that the Royal Brother of our King hath Learned to abhor ſuch Wickedneſs, however it is good to conſider, what bad Principles, with Worldly Glory, wicked Counſellors and Satans Temptations (eſpecially if he may be ſafe in it) may lead frail Man unto: But let us conſider a little further <hi>Cook</hi> upon <hi>Littleton,</hi> and inquire, firſt, whether theſe words be Law, or his Notion as a Lawyer. Se<g ref="char:EOLhyphen"/>condly, if it ſhould appear they are Law, whether it will agree with the Wiſdom and Safety of any King (whether Proteſtant or Papiſt) to let ſuch a Law be unrepealed, ſeeing a Succeſſor may be a Traytor, and yet muſt have the Crown. Pray, Sir, conſider, it is no breach of Law to Repeal a bad Law, and make a better.</p>
+            <p n="8">(8.) I Admire among many of your Follies you ſhould call the Parliament Omnipotent, in a way of Mockery, and apply theſe words to the Proteſtants, <hi>O Fooliſh and Timerous Country-men, who hath bewitched you?</hi> Pray, Sir, let me return them to you, <hi>O Fooliſh and Impudent Country-man, who hath bewitched you?</hi> That you ſhould uſe ſuch words as doth proclaim you to be very near of Kin to one of the Grand Traytors, <hi>viz.</hi> Mr. <hi>Coleman,</hi> for theſe be his words in which he Mocked the Parlia<g ref="char:EOLhyphen"/>ment in his Letter to the <hi>French</hi> Kings Confeſſor (<hi>viz.</hi> Omnipotent Parliament.) Sir, how dare you upbraid our Worthy Proteſtant Parliament to our <hi>Engliſh</hi> Proteſtant King, as a Traytor did to the Confeſſor of a Popiſh <hi>French</hi> King? What, were you brought up in the Traytors School? Truly, Sir, I do not like your Learning.</p>
+            <p n="9">(9.) I Admire that you ſhould ſay, a King of <hi>England,</hi> though the moſt Zealous Papiſt, cannot Subvert the Government and Proteſtant Religion as it is Eſtabliſhed; and you Rebuke the Proteſtants for having ſo little Faith, as not to believe this to be true. What, Sir, do you mean to wheadle the Pro<g ref="char:EOLhyphen"/>teſtants out of their Reaſon and Memory of things upon Record? Truly we have been too much thus abuſed already, and though our Eye-ſight hath been much dimm'd, we are not yet ſtark Blind, thanks be to God and the two laſt Parliaments for ſome Eye-ſalve, whereby we ſee our preſent and future Danger; and beſides this, we have heard of a Popiſh Succeſſor that hath Subverted the Government and Proteſtant Religion, <hi>viz.</hi> Queen <hi>Mary:</hi> pray do not think to Quibble with us, and ſay, you men<g ref="char:EOLhyphen"/>tioned a King that could not do thus, for if a Woman hath done ſuch Miſchief, we think a Man may do as much, if not more; and whereas you perſwade the Proteſtants to Embrace a Popiſh Succeſſor, becauſe the Popiſh party did ſuffer Queen <hi>Elizabeth</hi> to come to the Crown. What, Sir, have you forgot, or do you not believe that Endeavours were uſed by the Papiſts to prevent that good Ladys coming to the Crown, witneſs her Impriſonment in the Tower, and at <hi>Woodſtock,</hi> and a Warrant privately Sealed for her Execution without any publick Tryal, witneſs a party of Men with Coats of Mail to Aſſault her at <hi>Woodſtock,</hi> but God ſtrangely prevented them: Witneſs Queen <hi>Maries</hi> pre<g ref="char:EOLhyphen"/>tending to be with Child, when it was not ſo, thereby ſtriving to bring in a falſe Heir to the Crown, and ſo put by the good Lady <hi>Elizabeth.</hi> I pray you Read the Chronicles of <hi>England,</hi> and <hi>Foxes</hi> Acts and Monuments. And you are pleaſed to Reprove the Proteſtants for being more mi<g ref="char:EOLhyphen"/>ſtruſtful of Gods providence than the Papiſts were at Queen <hi>Elizabeths</hi> coming to the Crown, <hi>ſurely you cannot think the Papiſts had any great Faith in the flouriſhing of their Religion under a Proteſtant
+<pb n="3" facs="tcp:56885:2"/>Succeſſor:</hi> However we Proteſtants think it will be Fooliſhneſs and Preſumption rather than Faith in God, to expect the Flouriſhing of the <hi>Proteſtant</hi> Religion under a <hi>Popiſh</hi> Succeſſor. Truly we think we have cauſe to improve the Old Proverb, <hi>The Burnt Child dreads the Fire:</hi> And whereas you ſay, the Succeſſor is bounded and limited by Laws, and therefore cannot hurt the <hi>Proteſtants.</hi> We think it is not impoſſible, nor improbable for a <hi>Popiſh</hi> Succeſſor to have a <hi>Popiſh</hi> Parliament, or Rule without a Parliament, and then farewell all the Happineſs of <hi>Proteſtants, viz.</hi> Eſtates, Liberties, Religion, and Lives.</p>
+            <p n="10">(10.) I Admire you ſhould ſo much plead the breach of Law, in diſ-inheriting an Heir, whereas it is a common thing for the Father to diſ-inherit the Son, and one Brother to diſ-inherit another, and not break the Law, but do it by Law. I ſuppoſe if you were poſſeſſed of ten thouſand pound <hi>per an.</hi> and ſhould fore-ſee that your Son or Brother would deſtroy the Eſtate, and Ruine the Family after your Deceaſe, you would not think it an Act of Folly or Diſhoneſty to diſpoſe of the Eſtate for the well-fare of your Poſterity: And beſides this, we muſt conſider there is a vaſt difference between being Heir to an Eſtate of Houſes and Land (which are ſenſeleſs things) and Heir to the Government over a people who have Rational Souls (whoſe Conſent is concerned in this Matter) and who are capable of Rejoycing and prayſing God in a ſtate of Happineſs, or of groaning and lamenting under a ſtate of Miſery. And if it ſhould be the Mercy of <hi>England</hi> to be thus provided for by the King, who is the Father of the Kingdom, and by Parliament, who is the King and Kingdoms great Coun<g ref="char:EOLhyphen"/>cil, then the Oath of Allegiance will not be violated, becauſe the people are thereby bound to him that is Succeſſor according to Law; and ſuch an one cannot be counted an Uſurper, becauſe he doth not force himſelf upon the Kingdom, but is Eſtabliſhed before-hand by King and Parliament. And whereas in the beginning of your paper you ſeemed to Glory in the words of <hi>Cook</hi> upon <hi>Littleton,</hi> concerning the Crown deſcending to the Heir, though Attainted with Treaſon; yet afterwards when you take notice of <hi>Cook</hi> upon <hi>Littleton</hi> in theſe words <hi>(None is Heir before the Death of his Ance<g ref="char:EOLhyphen"/>ſtors but onely the Heir Apparent)</hi> here you ſlight and reproach <hi>Cook</hi> upon <hi>Littleton,</hi> ſaying, by <hi>Cooks</hi> leave this his Obſervation is fallacious and Impertinent. What, Sir, I perceive you cannot believe all that <hi>Cook</hi> ſaith to be Law, except it be that the Heir Attainted with Treaſon muſt have the Crown.</p>
+            <p n="11">(11.) I Admire you ſhould ſo bitterly Reflect on perſons and things in time paſt, when as His Majeſty hath been pleaſed to Bury them in the Grave of Oblivion, and hath received ſome perſons formerly Offending into favour, and crowned them with great Dignity, being well ſatisfied in their Loyalty; and the very people you Reproach with the Name of Infamy have behaved themſelves with peaceable ſubjection to Authority, though many times under very hard uſage for Conſcience ſake. But pray, Sir, where is your Obedience to the Commands of the King, <hi>viz.</hi> to lay aſide all Names of Infamy and Diſtinction? And beſides this, you do not ſpare the Parliament, calling the Houſe of Commons <hi>Fiery Zealots, Turbulent Zealots,</hi> and <hi>Robbers of thoſe they ſhould Honour and Obey:</hi> By this His Majeſty may perceive how you would let fly your Reflections at him alſo, if he ſhould not pleaſe you. What, Sir, have you a mind to ſet King and people at variance, who are now at peace? And do you think to ſcare His Majeſty from agreeing with his Parliament, in pro<g ref="char:EOLhyphen"/>viding for the future welfare of the Kingdom? in this Matter, I will ſay to you, as the Angel of God ſaid to Satan, <hi>Zech.</hi> 3.2. <hi>The Lord Rebuke thee, the Lord that hath choſen</hi> Jeruſalem, <hi>Rebuke thee.</hi>
+            </p>
+            <p n="12">(12.) I Admire you ſhould account it ſuch a Wickedneſs and ſin againſt God to diſ-inherit a Succeſſor, as if the whole Law of God were violated; ſurely you have not conſidered that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Sin is the Tranſgreſſion of the Law:</hi> Now God did never make a Law either for his own peo<g ref="char:EOLhyphen"/>ple <hi>Iſrael,</hi> or for the Nations of the World, that the next of Blood to the Crown muſt always wear it. Truly, Sir, I cannot find any ſuch Law of God in our Proteſtant Bible: And if there is no ſuch Law that doth always command ſuch a Succeſſion, it cannot be a ſin againſt God ſometimes to let ſuch a Succeſſion be laid aſide, for it's written in another place, <hi>Where there's no Law, there is no Tranſgreſſion:</hi> And beſides this, we find in the Holy Scriptures, that thoſe who were not next of blood to the Crown did wear it by Gods Approbation: <hi>David</hi> ſucceeded <hi>Saul</hi> in the Government, and not any of <hi>Saul</hi>'s Children; <hi>Solomon</hi> ſucceeded <hi>David,</hi> and not <hi>David</hi>'s Eldeſt ſon: and I hope theſe Succeſſors may be well called <hi>the beſt of Princes.</hi>
+            </p>
+            <p>But ſuppoſe it could be proved that God had Eſtabliſhed ſuch a Succeſſion of Princes in <hi>Iſrael</hi> as you plead for, that will not prove that <hi>England</hi> is bound to ſuch a Model of Government as <hi>Iſrael</hi> had, for the Nations of the World who were in Being at the ſame time of the Government of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> were not bound to have ſuch a Government as they had; and if any venture to affirm, they were bound in this caſe, then mark what may be concluded from it, <hi>viz.</hi> That when the Govern<g ref="char:EOLhyphen"/>ment of <hi>Iſrael</hi> was by Judges, then ſhould the other Nations have changed their Kings into Judges alſo. Indeed, <hi>Sir,</hi> I do think you will not be in haſt to charge thoſe Nations with ſin, as you do charge your own Nation, though they did not Conform to <hi>Iſrael</hi>'s Government. Furthermore, con<g ref="char:EOLhyphen"/>ſider by the ſame Reaſon that <hi>Iſrael</hi>'s Princely Government muſt be <hi>England</hi>'s Rule, ſo muſt the Prieſtly Government be a Rule alſo; and this is a ready way to deſtroy the Church of <hi>England</hi> as it
+<pb n="4" facs="tcp:56885:3" rendition="simple:additions"/>is now Eſtabliſhed, for which you will have no thanks from our Proteſtant Clergy. Therefore, <hi>Sir,</hi> for the time to come Learn to be wiſer, than to Charge either King, Parliament, or people with ſin againſt God, when no Law of God is broken.</p>
+            <p>
+               <hi>SIR,</hi>
+            </p>
+            <p>I Beſeech you Conſider what a ſtrange work you have undertaken, in perſwading the Proteſtants to Embrace and accept of a Popiſh Succeſſor.</p>
+            <p n="1">(1.) Firſt, In thus doing you put all the Proteſtants in <hi>England</hi> to venture all their Happineſs in the hands, and under the power of one that is taught by the See of <hi>Rome</hi> not to keep Faith with He<g ref="char:EOLhyphen"/>reticks, and will be required by the Authority of <hi>Rome</hi> to make his people Turn or Burn. How then can <hi>England,</hi> as it is now a Proteſtant Kingdom, be ſafe under ſuch a Prince? Truly, Sir, we Pro<g ref="char:EOLhyphen"/>teſtants had rather for the preſent let you call us <hi>O ye of little Faith,</hi> than that you ſhould cry out of us hereafter, <hi>O ye of great Folly.</hi>
+            </p>
+            <p n="2">(2.) Secondly, you put the Popiſh Succeſſor upon wronging of his Conſcience to obtain a Crown; for he muſt Solemnly ſwear at his Coronation before God and the Kingdom, That he will Maintain and Defend the Proteſtant Religion, and all other the Rights and Priviledges of the People, accord<g ref="char:EOLhyphen"/>ing to the Laws of the Kingdom; and we have ſufficient cauſe to believe thus to ſwear, is contrary to his principles, and Conſcience, and Authority of <hi>Rome.</hi> And ſhould he be true to his Oath after ta<g ref="char:EOLhyphen"/>king it, the Authority of the See of <hi>Rome</hi> would ſoon Excommunicate him, Depoſe, and Murther him.</p>
+            <p>Now therefore that all true Proteſtants in <hi>England</hi> may be free from all the Dangers that attend them in this Caſe; and that a Popiſh Succeſſor may be free from all the Dangers that attend him in this Caſe: Let all true Proteſtants cry to God, that the King and Parliament may agree together to Eſta<g ref="char:EOLhyphen"/>bliſh a good Proteſtant Succeſſor; <hi>And let all the People</hi>
+            </p>
+            <p>
+               <hi>Say Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
